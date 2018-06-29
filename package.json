@@ -1,0 +1,13 @@
+{
+    "name": "teacherexchange",
+    "version": "0.0.1",
+    "description": "TeacherExchange",
+    "main": "app.js",
+    "author": {
+        "name": "F. Derek Roman",
+        "email": "froman1@live.maryville.edu"
+    },
+    "dependencies": {
+        "express": "^4.16.3"
+    }
+}
