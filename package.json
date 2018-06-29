@@ -8,6 +8,7 @@
         "email": "froman1@live.maryville.edu"
     },
     "dependencies": {
-        "express": "^4.16.3"
+        "express": "^4.16.3",
+        "express-generator": "^4.16.0"
     }
 }
