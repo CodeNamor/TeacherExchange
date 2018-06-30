@@ -7,6 +7,9 @@
         "name": "F. Derek Roman",
         "email": "froman1@live.maryville.edu"
     },
+    "scripts": {
+        "start": "node ./bin/www"
+    },
     "dependencies": {
         "express": "^4.16.3",
         "express-generator": "^4.16.0"
